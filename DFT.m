@@ -6,12 +6,14 @@ function [X, absXk, angleXk] = DFT(xn, N)
     end
 
     % if sequence L is less than N-point DFT, we need to pad it
-    xn = [xn zeros(1, N-L)];
+    if N > L
+        xn = [xn zeros(1, N-L)];
+    end
     X = zeros(1, N);
 
     for k = 0:N-1
         for n = 0:N-1
-            X(k+1) = X(k+1) + xn(n+1) * exp(-(j*2*pi*k*n)/N);
+            X(k+1) = X(k+1) + xn(n+1) * exp(-(1j*2*pi*k*n)/N);
         end
     end
     

@@ -8,8 +8,8 @@ close all;
 clear all;
 warning('off','all');
 
-xn = [1 2 -1 5 6]; % input('Enter a finite sequence: ');
-hn = [5 6 7]; % input('Enter impulse response of FIR Filter: ');
+xn = input('Enter a finite sequence: '); %[1 2 -1 5 6];
+hn = input('Enter impulse response of FIR Filter: '); % [5 6 7];
 N = input('Enter N: ');
 
 % calculating length
@@ -34,13 +34,13 @@ end
 Xk = DFT(xn, N);
 Hk = DFT(hn, N);
 Yk = Xk .* Hk;
-yn = IDFT(Yk);
+yn = IDFT(Yk)
 
 % cross validating ans by doing liner conv
 linearConv = Convolution(xn, hn);
 
 if yn == linearConv
-    disp('Your answer is right');
+    disp('Your answer is right by maching with Linear Convolution');
 else
-    disp('Your answer is wrong');
+    disp('Your answer is wrong by maching with Linear Convolution');
 end
