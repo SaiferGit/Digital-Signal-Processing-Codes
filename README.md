@@ -18,31 +18,31 @@ This is a repository where I added my DSP codes that have written in Matlab. I h
 ## Figures from Different Code:
 
 ### Basic Siganls
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%201/Basic%20Signals.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%201/Basic%20Signals.png">
 
 ### Exponential Signals
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%201/Different%20eponential%20signals.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%201/Different%20eponential%20signals.png">
 
 ### Convolution
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%202/Convolution.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%202/Convolution.png">
 
 ### Cross-correlation
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%203/Cross%20Correlation.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%203/Cross%20Correlation.png">
 
 ### Auto-correlation
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%204/Auto%20Correlation.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%204/Auto%20Correlation.png">
 
 ### DFT
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%205/DFT.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%205/DFT.png">
 
 ### IDFT
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%206/IDFT.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%206/IDFT.png">
 
 ### FIR Filter Response
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%207/FIR%20Filter%20Response.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%207/FIR%20Filter%20Response.png">
 
 ### FFT: Divide and Conquerer
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%208/Divide%20and%20Conq%20FFT.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%208/Divide%20and%20Conq%20FFT.png">
 
 ### FFT: Radix-2
-<img width=300 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%209/Radix-2%20FFT.png">
+<img width=750 src="https://github.com/SaiferGit/Digital-Signal-Processing-Codes/blob/main/Question%209/Radix-2%20FFT.png">
