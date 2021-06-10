@@ -1,5 +1,6 @@
 # Digital-Signal-Processing-Codes
-This is a repository where I added my DSP codes that have written in Matlab. I have also commented inside every code so that it will become helpful for newbees.
+This is a repository where I added my DSP codes that have written in Matlab (without built-in function). I have also commented inside every code so that it will become helpful for newbies. Also added cross-check using Library Function.
+**Codes included:** Basic signals, Convolution, Correlation(Cross & Auto), DFT, IDFT, FIR Filter Response, Divide & Conquer FFT, Radix-2 FFT
 
 ## Structures of this repository:
 
